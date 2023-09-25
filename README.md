@@ -6,9 +6,9 @@ Proyecto del equipo 4 del módulo 3 del bootcamp de Data Analitycs.
 Este proyecto contiene el código en Python necesario para predecir la cantidad de bicicletas que los usuarios alquilan en Washington D.C. dependiendo de las condiciones climáticas, del día de la semana, de la estanción, etc. 
 
 ## Integrantes
-* Mónica Serrano
+* Mónica Serrano Lorenzo
 * Verónica Marina Ruiz
-* Irene Nicolás
+* Irene Nicolás Martínez
 
 ## Motivación para la realización de este proyecto
 La empresa GoGreen Bikesharing, se dedica al alquiler de bicicletas y posee datos tales como la cantidad de bicis alquiladas por usuarios registrados, la cantidad de alquileres realizados por usuarios puntuales, y la cantidad total. La empresa necesita que realicemos predicciones sobre la cantidad de bicicletas alquiladas y poder así atender la demanda.
@@ -17,6 +17,8 @@ La empresa GoGreen Bikesharing, se dedica al alquiler de bicicletas y posee dato
  Este repositorio contiene:
  - carpeta 'datos': contiene el csv con todos los datos que la empresa nos proporciona y un Readme que documenta los datos que tenemos en el csv.
  - carpeta 'datos_finales': contiene un conjunto de datos que hemos extraído a lo largo del proyecto.
+ - capeta 'notebooks': contiene todos los notebooks necesarios para la realización del proyecto.
+ - carpeta 'streamlit': contiene todos los notebooks y fotos para la realización de la interfaz de usuario.
 
 
 ## Lenguajes utilizados
